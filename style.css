@@ -1,0 +1,8 @@
+#header {
+	background: linear-gradient(0.25turn, "blue", "green");
+	font-family: 'Dancing Script', cursive;
+}
+
+#header h1 {
+	text-align: center;
+}
