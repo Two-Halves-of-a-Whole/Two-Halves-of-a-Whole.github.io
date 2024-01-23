@@ -25,4 +25,8 @@ h1 {
 
 #bodyText {
 	font-family: 'Dancing Script', cursive;
+	width: 50%;
+	background-color: #FFFFFF;
+	padding: 10px;
+	text-align: center;
 }
