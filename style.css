@@ -18,9 +18,12 @@ h1 {
 	width: 49%;
 	height: 45px;
 	font-size: 25px;
-	background-color: #f6cd26;
-	border: 1px solid #000000;
+	background-color: #e3a72b;
+	border: 2px solid #6a3c0b;
+	border-left: 2px solid #f3edea;
+	border-top: 2px solid #f3edea;
 	font-family: sans-serif;
+	color: #000000;
 }
 
 #bodyText {
