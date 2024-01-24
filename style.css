@@ -19,8 +19,7 @@ h1 {
 	height: 45px;
 	font-size: 25px;
 	background-color: #e3a72b;
-	border-right: 2px solid #6a3c0b;
-	border-bottom: 2px solid #6a3c0b;
+	border: 2px solid #6a3c0b;
 	border-left: 2px solid #f3edea;
 	border-top: 2px solid #f3edea;
 	font-family: sans-serif;
